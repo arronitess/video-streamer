@@ -9,28 +9,22 @@ the contents are as described bleow.
 
 ### channels
 
-    it includes all the interactions with channels including its name and
-    three levels of authority for accessablity.
+   #### it includes all the interactions with channels including its name and three levels of authority for accessablity.
 
 ### Comments
 
-    it includes all the users intercations toward a single movie that has
-    been uploaded. comments
-
+   #### it includes all the users intercations toward a single movie that has been uploaded.
 ### Users
 
-    this table is made of all the records of the users including admins,
-    owners, and regular users. this is where we store all of their infos and
-    keep all the private data
+    #### this table is made of all the records of the users including admins, owners, and regular users. this is where we store all of their infos and keep all the private data.
 
 ### Videos
 
-    this table contains all the vidoes that we have uploaded.
+   #### this table contains all the vidoes that we have uploaded.
 
 ### Enums
 
-    these are the variables that we defined so that we may only accept
-    values among one of these for specified fields.
+    #### these are the variables that we defined so that we may only accept values among one of these for specified fields.
 
 
 
