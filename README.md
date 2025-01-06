@@ -41,6 +41,6 @@
 
 #### here we see the main Entity relationship where we dicided to place our certain infos like titles posters and name inside a json called meta this is due to better data management when developing the application so that we only need a single query to attain meta and display informative informations
 
-![Alt text](Sketches/er.png)
+![Alt text](Sketches/er.jpg)
 
 ![Alt text](Sketches/er2.jpg)
