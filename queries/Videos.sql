@@ -1,15 +1,17 @@
 CREATE TABLE Videos (
     rand_id VARCHAR(255),
-    channel_id VARCHAR(255)[],
     cr_rand_id VARCHAR(255),
-    status Status,
-    agree_policy Policy,
+    title VARCHAR(255),
+    description text,
+    channel_id VARCHAR(255),
+    transcode_progress INTEGER,
+    storage_disk VARCHAR(255),
+    video_path VARCHAR(255)[],
+    thumbnail_path text,
     views_count INTEGER,
-    creator JSONB, 
-    type VARCHAR(255),
-    path VARCHAR(255)[],
     publish_date TIMESTAMP WITH TIME ZONE,
+    playlist_id VARCHAR(255),
+    status BOOLEAN,
     cr TIMESTAMP WITH TIME ZONE,
-    up TIMESTAMP WITH TIME ZONE,
-    meta JSONB
+    up TIMESTAMP WITH TIME ZONE
 );

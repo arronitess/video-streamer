@@ -24,9 +24,17 @@
 
 #### this table contains all the vidoes that we have uploaded.
 
-### Enums
+### Playlists
 
-#### these are the variables that we defined so that we may only accept values among one of these for specified fields.
+#### this table contains a collection of the things that we like to group together so that we can see together
+
+### Reactions 
+
+#### these are the users interaction with the videos either its positive or negative
+
+### Subscriptions
+
+#### these are the users who have subscribed to the streamer and the services which we provide to them.
 
 
 # Sketches (ER)
